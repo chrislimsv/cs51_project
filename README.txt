@@ -10,5 +10,7 @@ opencv
 
 To use our program, run “python main.py IMAGE_NAME” in Terminal. 
 
+Our project code is in main.py, EdgeData.py, and PlateTools.py.
+
 Our program only accepts pictures smaller than 1000x1000 pixels!
 
