@@ -9,7 +9,7 @@ Pillow
 tesseract
 opencv
 
-To use our software, run “python main.py REPLACEWITHIMAGENAME” in Terminal. 
+To use our program, run “python main.py REPLACEWITHIMAGENAME” in Terminal. 
 
-Our algorithm only accepts pictures smaller than 1000x1000 pixels!
+Our program only accepts pictures smaller than 1000x1000 pixels!
 
